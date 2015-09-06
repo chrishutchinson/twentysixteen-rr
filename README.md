@@ -3,6 +3,8 @@
 
 A web app that mirrors the look, feel, and functionality of the [Twenty Sixteen WordPress theme](http://github.com/WordPress/TwentySixteen).
 
+![Index](screenshots/one.png)
+
 ## Current Functionality
 
 - Index
